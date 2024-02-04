@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 575.9 650.8" style="enable-background:new 0 0 575.9 650.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'Arial-Black';}
+	.st1{font-size:115.7069px;}
+	.st2{fill:none;stroke:#000000;stroke-width:28;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#000000;stroke-width:28;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_2_00000071539747363885754700000002762285901000575121_">
+	<text transform="matrix(1 0 0 1 62.1 558.0538)" class="st0 st1">Spullen</text>
+</g>
+<g id="Layer_1_00000003086458184625675160000015926286117902754995_">
+	<polyline class="st2" points="89.6,428 103.4,260.7 231.4,260.7 243.2,428 	"/>
+	<line class="st2" x1="243.2" y1="73.7" x2="231.4" y2="260.7"/>
+	<polyline class="st3" points="296.3,428 377,428 457.7,428 	"/>
+	<path class="st3" d="M377,223.3V428V223.3z"/>
+	<path class="st3" d="M307.1,223.3"/>
+	<polygon class="st2" points="341.6,97.3 410.5,97.3 457.7,209.5 377,223.3 307.1,205.5 	"/>
+</g>
+<path class="st2" d="M506,598.9H70c-26.4,0-48-21.6-48-48v-462c0-26.4,21.6-48,48-48h436c26.4,0,48,21.6,48,48v462
+	C554,577.3,532.4,598.9,506,598.9z"/>
+</svg>
