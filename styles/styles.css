@@ -72,3 +72,25 @@ footer ul li{
     list-style: none;
 }
 
+label, input, select{
+    width: 60%;
+}
+
+form{
+    display: flex;
+}
+.spullen section{
+    display: flex;
+    flex-direction: row;
+}
+ 
+.spullen div{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    padding-left: 10px;
+}
+
+.spullen section:nth-of-type(1) {
+flex-direction: column;
+}
