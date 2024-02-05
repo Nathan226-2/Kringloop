@@ -1,5 +1,13 @@
+@font-face {
+    font-family: Retro;
+    src: url(/assets/DAYROM__.ttf);
+}
+
+body{
+    font-family: Retro;
+}
+
 h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     padding-left: 10px;
 }
@@ -80,7 +88,7 @@ footer{
 }
 
 footer ul{
-    display: ;
+    padding: 0
     
 }
 
