@@ -16,8 +16,11 @@ nav ul li a{
     padding-bottom: 0%;
     margin: 10px;
     text-decoration: none;
-    border-radius: 0.2em;
+}
+
+nav ul li img{
     background-color: #49955d;
+    border-radius: 10px;
 }
 
 header{
@@ -44,11 +47,12 @@ header{
     display: flex;
 }
 
-.logogroot{
+image:nth-last-of-type(1){
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 main section{
     margin-top: 1em;
     background-color: #49955d;
@@ -56,11 +60,23 @@ main section{
     padding: 1em;
 }
 
-footer{
-    background-color: #235d3a;
-    width: 100%;
+.fotos{
     display: flex;
+    justify-content: space-evenly;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #49955d;
+    border-radius: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+footer{
+    display: flex;
+    background-color: #235d3a;
     font-size: 10px;
+    list-style-type: none;
+    text-decoration: none;
+    color: #efefef;
 }
 
 footer ul{
